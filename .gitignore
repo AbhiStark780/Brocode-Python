@@ -1,0 +1,8 @@
+BroCode Python.code-workspace
+BroCode_Python_Tracker_doc_version.docx
+BroCode_PYTHON_Tracker.html
+
+# Ignore Code Runner temporary files
+tempCodeRunnerFile*
+main.py
+__pycache__/
