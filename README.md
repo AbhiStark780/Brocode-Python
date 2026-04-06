@@ -2,6 +2,16 @@
 
 This repository serves as a comprehensive collection of practice scripts and projects completed during the **Bro Code Python Full Course**. The curriculum covers the spectrum from fundamental syntax to advanced programming paradigms like Multi-threading and API integration.
 
+## 📺 Course Resource
+
+All the code in this repository was developed while following the course below:
+
+* **Course Link:** [Python Full Course for free 🐍](https://www.youtube.com/watch?v=ix9cRaBkVe0)
+* **Instructor:** Bro Code
+* **Duration:** 12 Hours
+
+---
+
 ## 📖 Curriculum Syllabus
 
 ### 1. Programming Foundations
@@ -65,7 +75,7 @@ The following 20 projects were built to apply theoretical concepts to real-world
 ---
 
 ## ⚙️ Technical Stack
-* **Language:** Python 3.x
+* **Language:** Python 3.14
 * **IDE:** Visual Studio Code (VS Code)
 * **Version Control:** Git & GitHub
 * **Core Libraries:** `math`, `random`, `time`, `os`, `json`, `csv`, `threading`, `requests`.
