@@ -3,7 +3,7 @@
 import random
 
 def spin_row():
-    symbols = ['🍒',  '🍉', '🍊', '🔔', '⭐']
+    symbols = ['🍒',  '🍉', '🍊', '🔔', '⭐'] 
 
     # results = []
 
@@ -11,7 +11,7 @@ def spin_row():
     #     results.append(random.choice(symbols))
     # return results
 
-    return [random.choice(symbols) for _ in range(3)]
+    return [random.choice(symbols) for _ in range(3)]  # used list compression to generate a list
 
 def print_row(row):
     print("*************")
