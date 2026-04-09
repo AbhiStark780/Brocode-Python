@@ -1,6 +1,6 @@
 # words for hangman game
 
-# list id generated using gemini
+# list is generated using gemini
 
 words = [
     # Animals & Nature
