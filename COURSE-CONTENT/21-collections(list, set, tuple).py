@@ -14,7 +14,7 @@
 
 # ------------------LIST----------------------------------------
 
-# fruits = ["apple", "orange", "mangoes", "coconut", "banana"] # general naming convention is give your collection plural form as they contains multiple elements
+# fruits = ["apple", "orange", "mangoes", "coconut", "banana"] # general naming convention is to give your collection plural form as they contains multiple elements
 
 # print(fruits[::-1])
 
